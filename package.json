@@ -1,0 +1,32 @@
+{
+  "name": "hapijs_mvc_api",
+  "version": "0.1.0",
+  "description": "This repo you can use as boilerplate for creating API in hapiJs using MVC Pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satishsojitra/hapi-mvc-rest-api.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "HapiJS",
+    "MVC"
+  ],
+  "author": "Satish B. Sojitra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satishsojitra/hapi-mvc-rest-api/issues"
+  },
+  "homepage": "https://github.com/satishsojitra/hapi-mvc-rest-api#readme",
+  "dependencies": {
+    "hapi": "^16.1.1",
+    "inert": "^4.2.0",
+    "joi": "^10.4.2",
+    "lout": "^10.0.1",
+    "vision": "^4.1.1"
+  }
+}
