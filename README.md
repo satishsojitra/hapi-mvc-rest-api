@@ -12,7 +12,8 @@ node index.js
 http://localhost:3000/users
 http://localhost:3000/posts
 
-
+#Change environment or add new environment like development or production
+You can add or configure environment specific thing in configuration.js file. 
 
 MIT License
 
