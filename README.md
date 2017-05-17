@@ -1,10 +1,11 @@
 # hapi-mvc-rest-api
 HapiJS rest api MVC structure
 
-#Install hapiJs
-npm install hapi --save
+#Clone this project and use below command
+cd hapi-mvc
+npm install
 
-#run script
+#run nodejs
 node index.js
 
 

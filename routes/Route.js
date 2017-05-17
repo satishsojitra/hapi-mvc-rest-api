@@ -6,14 +6,16 @@ module.exports = function(){
 			method: 'GET',
 			path: '/users',
 			config: {
-				handler: UserController.getAllUsers
+				handler: UserController.getAllUsers,
+				description: 'Gets all user list'
 			}		
 		},
 		{
 			method: 'GET',
 			path: '/posts',
 			config: {
-				handler: UserController.getAllPosts
+				handler: UserController.getAllPosts,
+				description: 'Gets all user posts'
 			}		
 		}
 	]
