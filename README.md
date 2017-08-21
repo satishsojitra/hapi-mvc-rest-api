@@ -1,20 +1,22 @@
 # hapi-mvc-rest-api
 HapiJS rest api MVC structure
 
-#Clone this project and use below command
-cd hapi-mvc
-npm install
+#Clone this project and use below command<br/>
+cd hapi-mvc<br/>
+npm install<br/>
 
-#run nodejs
+#run nodejs<br/>
 node index.js
 
 
-#Visit url in browser
-http://localhost:3000/users
-http://localhost:3000/posts
+<div><h2>Visit url in browser</h2></div>
+<ul>
+<li>http://localhost:3000/users</li>
+<li>http://localhost:3000/posts</li>
+</ul>
 
-#Change environment or add new environment like development or production
-You can add or configure environment specific thing in configuration.js file. 
+<p>Note: Change environment or add new environment like development or production
+You can add or configure environment specific thing in configuration.js file.
 
 MIT License
 
